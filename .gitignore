@@ -3,3 +3,5 @@ dist
 Cargo.lock
 node_modules
 package*.json
+.vs_code/
+.idea/*
